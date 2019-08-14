@@ -1,2 +1,2 @@
-# Shamrock-GTK-2-Theme
-GTK-2 Theme for Plasma
+# Shamrock-GTK-2-3Theme
+GTK-2/3 Theme for Plasma
