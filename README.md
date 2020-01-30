@@ -5,3 +5,8 @@ Changelog: 14.08.2019.
 ----------------------
 
 Redesigned complete theme
+
+Changelog: 30.01.2020.
+----------------------
+
+Redesigned Theme
