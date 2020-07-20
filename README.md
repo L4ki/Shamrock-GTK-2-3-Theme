@@ -10,3 +10,8 @@ Changelog: 30.01.2020.
 ----------------------
 
 Redesigned Theme
+
+Changelog: 20.07.2020.
+---------------------
+
+Correction of gtk.css file
