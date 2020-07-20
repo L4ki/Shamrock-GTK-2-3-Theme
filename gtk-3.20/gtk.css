@@ -2321,7 +2321,7 @@ button:visited > label,
 *:link,
 button:link,
 button:visited {
-  color: #87a96b; }
+  color: #82a166; }
   button:link > label:visited,
   button:visited > label:visited,
   *:link:visited,
@@ -2346,7 +2346,7 @@ button:visited {
   *:link:active,
   button:active:link,
   button:active:visited {
-    color: #87a96b; }
+    color: #82a166; }
     *:selected button:link > label:active,
     *:selected button:visited > label:active, *:selected *:link:active, *:selected button:active:link,
     *:selected button:active:visited {
